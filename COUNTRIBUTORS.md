@@ -1,1 +1,2 @@
 Vitaly Kopytich
+Artyom Adamovich
